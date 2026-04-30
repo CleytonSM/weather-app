@@ -1,8 +1,6 @@
 # SkyCast — Weather App
 
----
-
-## 📱 Sobre o App
+## Sobre o App
 
 O SkyCast fornece dados meteorológicos em tempo real com base em uma localização pesquisada pelo usuário.
 
