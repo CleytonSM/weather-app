@@ -1,5 +1,10 @@
 # SkyCast — Weather App
 
+# Feito por:
+- Cleyton Souza Martins - 24820
+- Matheus Pasti - 24841
+
+
 ## Sobre o App
 
 O SkyCast fornece dados meteorológicos em tempo real com base em uma localização pesquisada pelo usuário.
