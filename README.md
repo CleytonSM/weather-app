@@ -8,6 +8,19 @@ O SkyCast fornece dados meteorológicos em tempo real com base em uma localizaç
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="1.jpeg" width="160" alt="Sign In"/>
+  <img src="2.jpeg" width="160" alt="Sign Up"/>
+  <img src="3.jpeg" width="160" alt="Home"/>
+  <img src="4.jpeg" width="160" alt="Search"/>
+  <img src="5.jpeg" width="160" alt="Forecast"/>
+  <img src="6.jpeg" width="160" alt="Profile"/>
+</p>
+
+---
+
 ## Funcionalidades
 
 - **Autenticação** — Cadastro e login com e-mail/senha via Firebase Authentication. Sessão persistida: usuários logados vão direto para o app ao reabri-lo.
@@ -90,6 +103,9 @@ app/src/main/java/com/project/weatherapp/
 ---
 
 ## Como Executar
+1. Baixa o APK `weatherapp.apk` na raiz do projeto
+
+### OU
 
 1. Clone o repositório e abra no **Android Studio**.
 2. Adicione o arquivo `google-services.json` do seu projeto Firebase em `app/`.
